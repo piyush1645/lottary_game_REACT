@@ -31,7 +31,7 @@ A simple lottery game built using React that allows users to enter a lottery and
    ```
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Usage
@@ -51,5 +51,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or issues, contact me at [your-email@example.com](mailto:your-piyushmevada1606@gmail.com).
+For any inquiries or issues, contact me at [piyushmevada1606@gmail.com](mailto:your-piyushmevada1606@gmail.com).
 
